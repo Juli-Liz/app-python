@@ -1,0 +1,20 @@
+Pip install harperDB (7min)
+Pip install YouTube-dl (16min)
+Pip install streamlit (23min)
+
+Install npm package for HarperDB which includes: (31 min): npm install -g harperdb
+
+node.ja 14.19.1
+GCC
+Make
+Python
+(MacOS)Xcode 
+
+Use node mailer package (38min)
+xcode-select —install (39min)
+Pip install watchdog 
+
+npm install (40:54min): it will install nodemailer and create a node module folder
+
+to run the code:
+streamlit run (name of file ex: app.py)
